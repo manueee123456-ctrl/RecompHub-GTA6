@@ -1,0 +1,11 @@
+How does the compatibility estimate work?
+The overall score is the lowest of the scores for graphics, processor, RAM, drive type and free space. Available VRAM also affects the verdict.
+
+How do I choose a drive?
+Click Detect hardware, then select the drive where you plan to store the files. You can also enter the drive type and free space manually.
+
+What data does the app send?
+Hardware detection takes place on your PC and starts only after you give permission. The app contacts gta6recomp.com to retrieve news, articles and release status.
+
+What is Recomp Hub?
+Recomp Hub is an independent Windows app for following GTA 6 recompilation news and estimating PC compatibility. The Projects page shows progress reported by the source site.

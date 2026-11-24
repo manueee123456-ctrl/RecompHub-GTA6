@@ -1,0 +1,4 @@
+DDR5 6000 MHz+	ddr5-fast	0
+DDR5 4800–5600 MHz	ddr5-base	0
+DDR4 3200–3600 MHz	ddr4-fast	1
+DDR4 2133–2666 (slow)	ddr4-slow	0
